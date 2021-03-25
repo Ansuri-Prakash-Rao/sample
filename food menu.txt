@@ -1,0 +1,13 @@
+North Indian Dish
+1.Chole Bhaturay
+Roti-Curry
+Rajma Chawal
+
+South Indian Dish
+1.Idli
+2.Dosa
+3.Sambar Badha
+
+Refreshment
+1.Fruit Juice
+2.Ice-Cream
