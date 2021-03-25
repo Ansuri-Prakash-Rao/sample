@@ -1,7 +1,8 @@
 North Indian Dish
 1.Chole Bhaturay
-Roti-Curry
-Rajma Chawal
+2.Roti-Curry
+3.Rajma Chawal
+4.Samosa Chat
 
 South Indian Dish
 1.Idli
